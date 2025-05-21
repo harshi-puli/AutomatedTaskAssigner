@@ -1,0 +1,151 @@
+task_id,urgency,budget,org_type,key_techs,project_goal,project_type,target_audience,timeline,human_ai_balance
+0,0,$15K - $30K,Enterprise,"['Python', 'AI/ML', 'Node.js']","['Increase Revenue', 'Other/unsure', 'Improve Retention']",Data Analytics,Customers,Other/unsure,Balanced Human + AI
+1,5,$50K - $100K,Bank/Financial,"['React', 'AI/ML']","['Improve Retention', 'Market Expansion']",Web Application,Business,2-4 weeks,Balanced Human + AI
+2,3,$5K - $15K,Enterprise,['Other/unsure'],['Compliance'],Other/unsure,Education,3-4 months,Human-led with AI Support
+3,2,$30K - $50K,Government,['AI/ML'],['Market Expansion'],Other/unsure,Retail,5-6 months,Other/unsure
+4,2,$100K - $250K,Enterprise,"['AWS', 'Google Cloud', 'React']","['Other/unsure', 'Cost Reduction']",Other/unsure,Healthcare,5-6 months,Expert Recommendation
+5,4,$50K - $100K,Enterprise,"['React Native', 'Google Cloud']",['Cost Reduction'],AI Integration,Other/unsure,1-2 months,AI-first Approach
+6,1,$5K - $15K,Enterprise,['Node.js'],['Other/unsure'],Mobile App,Financial Services,6+ months,Other/unsure
+7,5,$50K - $100K,Bank/Financial,"['Google Cloud', 'TensorFlow']","['Market Expansion', 'Other/unsure', 'Compliance']",Mobile App,Business,2-4 weeks,Balanced Human + AI
+8,4,$100K - $250K,Other/unsure,['Node.js'],['Compliance'],Mobile App,Other/unsure,1-2 months,Balanced Human + AI
+9,3,$5K - $15K,Government,"['Other/unsure', 'Google Cloud']",['User Acquisition'],Web Application,Education,3-4 months,Expert Recommendation
+10,5,$250K+,Enterprise,['AI/ML'],['Cost Reduction'],Mobile App,Enterprise,2-4 weeks,Expert Recommendation
+11,0,$15K - $30K,Startup,['Other/unsure'],['Security Enhancement'],SaaS Platform,Enterprise,Other/unsure,Expert Recommendation
+12,4,$100K - $250K,Non-profit,"['TensorFlow', 'AWS']","['Other/unsure', 'Efficiency Gains', 'Market Expansion']",AI Integration,Retail,1-2 months,Other/unsure
+13,4,$50K - $100K,Other/unsure,"['AWS', 'Node.js', 'Google Cloud']","['Compliance', 'Increase Revenue']",IoT Solution,Other/unsure,1-2 months,Balanced Human + AI
+14,1,$250K+,Government,['AI/ML'],"['Other/unsure', 'Improve Retention']",UX/UI Design,Financial Services,6+ months,AI-first Approach
+15,0,$50K - $100K,Other/unsure,"['Python', 'AI/ML', 'Google Cloud']",['Other/unsure'],Data Analytics,Business,Other/unsure,Expert Recommendation
+16,2,$250K+,Other/unsure,"['Python', 'React']","['Market Expansion', 'Compliance', 'Cost Reduction']",Web Application,Education,5-6 months,Human-led with AI Support
+17,3,$50K - $100K,Other/unsure,"['Python', 'AWS']","['Efficiency Gains', 'Security Enhancement']",Web Application,Retail,3-4 months,Expert Recommendation
+18,5,$100K - $250K,Enterprise,"['Python', 'Node.js', 'React']",['Efficiency Gains'],AI Integration,Education,2-4 weeks,Human-led with AI Support
+19,0,$15K - $30K,Enterprise,"['AI/ML', 'Python']","['Security Enhancement', 'Efficiency Gains', 'Increase Revenue']",Web Application,Other/unsure,Other/unsure,Balanced Human + AI
+20,1,$15K - $30K,Bank/Financial,"['Node.js', 'AWS', 'React Native']",['Improve Retention'],IoT Solution,Enterprise,6+ months,AI-first Approach
+21,3,$250K+,Enterprise,['AI/ML'],"['Increase Revenue', 'Security Enhancement', 'Compliance']",AI Integration,Other/unsure,3-4 months,AI-first Approach
+22,1,$15K - $30K,Non-profit,"['Other/unsure', 'AWS']",['Efficiency Gains'],Mobile App,Other/unsure,6+ months,Other/unsure
+23,0,$30K - $50K,Bank/Financial,['AI/ML'],"['Efficiency Gains', 'Other/unsure', 'Increase Revenue']",IoT Solution,Other/unsure,Other/unsure,Other/unsure
+24,4,$250K+,Government,['Google Cloud'],"['Compliance', 'Market Expansion', 'User Acquisition']",UX/UI Design,Education,1-2 months,Expert Recommendation
+25,1,$30K - $50K,Other/unsure,"['React Native', 'AWS', 'Other/unsure']","['Improve Retention', 'Market Expansion', 'Compliance']",E-commerce,Retail,6+ months,Human-led with AI Support
+26,2,$30K - $50K,Other/unsure,['React'],['Cost Reduction'],Other/unsure,Enterprise,5-6 months,Human-led with AI Support
+27,1,$5K - $15K,Government,"['Node.js', 'Google Cloud']","['Compliance', 'Improve Retention']",E-commerce,Retail,6+ months,Expert Recommendation
+28,0,$100K - $250K,Government,"['Other/unsure', 'AWS']",['User Acquisition'],Other/unsure,Financial Services,Other/unsure,Human-led with AI Support
+29,0,$5K - $15K,Startup,['React Native'],"['Security Enhancement', 'Cost Reduction']",Data Analytics,Healthcare,Other/unsure,Other/unsure
+30,3,$15K - $30K,Government,"['AWS', 'AI/ML']","['Increase Revenue', 'Improve Retention', 'User Acquisition']",Mobile App,Customers,3-4 months,Expert Recommendation
+31,0,$50K - $100K,Bank/Financial,"['React Native', 'AWS', 'AI/ML']",['User Acquisition'],UX/UI Design,Customers,Other/unsure,Human-led with AI Support
+32,2,$30K - $50K,Government,"['Python', 'AI/ML']","['Market Expansion', 'Increase Revenue', 'Improve Retention']",UX/UI Design,Other/unsure,5-6 months,Other/unsure
+33,3,$5K - $15K,Bank/Financial,"['React Native', 'AWS']","['Other/unsure', 'Market Expansion']",Mobile App,Healthcare,3-4 months,AI-first Approach
+34,1,$15K - $30K,Bank/Financial,"['Other/unsure', 'Google Cloud']","['User Acquisition', 'Increase Revenue']",Web Application,Customers,6+ months,Balanced Human + AI
+35,1,$5K - $15K,Enterprise,"['AWS', 'Python', 'Google Cloud']","['Security Enhancement', 'Compliance']",E-commerce,Healthcare,6+ months,Other/unsure
+36,2,$250K+,Startup,['React Native'],['Market Expansion'],UX/UI Design,Retail,5-6 months,Other/unsure
+37,1,$50K - $100K,Government,['React Native'],['Improve Retention'],Mobile App,Enterprise,6+ months,Balanced Human + AI
+38,1,$250K+,Non-profit,"['AWS', 'React']","['User Acquisition', 'Improve Retention', 'Cost Reduction']",AI Integration,Retail,6+ months,Human-led with AI Support
+39,0,$5K - $15K,Other/unsure,"['TensorFlow', 'Google Cloud']","['Increase Revenue', 'Cost Reduction']",Mobile App,Education,Other/unsure,Expert Recommendation
+40,4,$15K - $30K,Bank/Financial,"['AWS', 'Node.js']","['Security Enhancement', 'Other/unsure', 'Efficiency Gains']",E-commerce,Retail,1-2 months,Balanced Human + AI
+41,5,$5K - $15K,Startup,"['TensorFlow', 'Google Cloud']",['User Acquisition'],E-commerce,Other/unsure,2-4 weeks,AI-first Approach
+42,1,$100K - $250K,Other/unsure,['Google Cloud'],['Efficiency Gains'],AI Integration,Education,6+ months,Expert Recommendation
+43,5,$50K - $100K,Enterprise,['React Native'],"['Compliance', 'Efficiency Gains', 'Improve Retention']",Data Analytics,Other/unsure,2-4 weeks,Balanced Human + AI
+44,3,$30K - $50K,Bank/Financial,"['Node.js', 'Python', 'AI/ML']","['User Acquisition', 'Compliance', 'Increase Revenue']",IoT Solution,Enterprise,3-4 months,Human-led with AI Support
+45,4,$250K+,Bank/Financial,['React Native'],['Compliance'],SaaS Platform,Customers,1-2 months,Other/unsure
+46,0,$15K - $30K,Enterprise,"['React', 'AWS']","['Market Expansion', 'Improve Retention']",SaaS Platform,Customers,Other/unsure,Expert Recommendation
+47,2,$50K - $100K,Government,"['React', 'Other/unsure', 'Google Cloud']","['Cost Reduction', 'Compliance', 'User Acquisition']",Mobile App,Other/unsure,5-6 months,Human-led with AI Support
+48,4,$50K - $100K,Other/unsure,['Google Cloud'],['Cost Reduction'],Other/unsure,Education,1-2 months,AI-first Approach
+49,2,$15K - $30K,Government,"['AI/ML', 'Python', 'Other/unsure']","['Other/unsure', 'Compliance']",Web Application,Enterprise,5-6 months,AI-first Approach
+50,1,$100K - $250K,Non-profit,"['React', 'AI/ML']","['Improve Retention', 'Other/unsure']",AI Integration,Financial Services,6+ months,Balanced Human + AI
+51,0,$5K - $15K,Government,"['AWS', 'Node.js', 'Google Cloud']","['Improve Retention', 'Market Expansion', 'Increase Revenue']",AI Integration,Education,Other/unsure,Balanced Human + AI
+52,1,$250K+,Startup,"['Other/unsure', 'Node.js', 'React']","['Security Enhancement', 'Other/unsure', 'Compliance']",Other/unsure,Retail,6+ months,AI-first Approach
+53,3,$250K+,Government,"['Python', 'React Native', 'AWS']",['User Acquisition'],UX/UI Design,Education,3-4 months,Other/unsure
+54,2,$15K - $30K,Startup,"['TensorFlow', 'AI/ML', 'Google Cloud']","['Other/unsure', 'Efficiency Gains', 'Compliance']",UX/UI Design,Retail,5-6 months,Expert Recommendation
+55,1,$100K - $250K,Bank/Financial,"['Google Cloud', 'AWS']",['Improve Retention'],E-commerce,Education,6+ months,Other/unsure
+56,2,$5K - $15K,Startup,"['AI/ML', 'Other/unsure', 'Google Cloud']","['Market Expansion', 'Cost Reduction']",Data Analytics,Retail,5-6 months,Other/unsure
+57,3,$30K - $50K,Non-profit,"['React Native', 'Other/unsure', 'AI/ML']","['Other/unsure', 'Improve Retention', 'Increase Revenue']",Other/unsure,Customers,3-4 months,AI-first Approach
+58,3,$100K - $250K,Government,"['React', 'Node.js', 'TensorFlow']",['Increase Revenue'],UX/UI Design,Customers,3-4 months,AI-first Approach
+59,2,$15K - $30K,Non-profit,['TensorFlow'],['Security Enhancement'],UX/UI Design,Healthcare,5-6 months,Balanced Human + AI
+60,2,$100K - $250K,Startup,"['AI/ML', 'React Native']","['Compliance', 'Efficiency Gains']",SaaS Platform,Healthcare,5-6 months,Human-led with AI Support
+61,2,$5K - $15K,Non-profit,"['AWS', 'React', 'Node.js']","['Market Expansion', 'Cost Reduction']",Web Application,Education,5-6 months,Balanced Human + AI
+62,4,$50K - $100K,Startup,['AWS'],['Compliance'],E-commerce,Enterprise,1-2 months,AI-first Approach
+63,2,$5K - $15K,Non-profit,['Python'],"['Market Expansion', 'User Acquisition']",Data Analytics,Healthcare,5-6 months,Human-led with AI Support
+64,5,$30K - $50K,Government,"['AI/ML', 'Node.js', 'React']","['Other/unsure', 'User Acquisition', 'Increase Revenue']",Web Application,Education,2-4 weeks,Other/unsure
+65,5,$5K - $15K,Enterprise,['Python'],"['User Acquisition', 'Increase Revenue']",UX/UI Design,Healthcare,2-4 weeks,Human-led with AI Support
+66,5,$15K - $30K,Startup,['Node.js'],['Increase Revenue'],E-commerce,Financial Services,2-4 weeks,AI-first Approach
+67,5,$5K - $15K,Startup,"['TensorFlow', 'AWS']","['Market Expansion', 'Compliance', 'User Acquisition']",UX/UI Design,Retail,2-4 weeks,Human-led with AI Support
+68,3,$100K - $250K,Enterprise,['Other/unsure'],"['Efficiency Gains', 'Market Expansion', 'User Acquisition']",SaaS Platform,Other/unsure,3-4 months,Balanced Human + AI
+69,4,$50K - $100K,Bank/Financial,"['Python', 'React', 'AI/ML']",['Market Expansion'],AI Integration,Enterprise,1-2 months,Balanced Human + AI
+70,0,$30K - $50K,Startup,"['AI/ML', 'TensorFlow', 'Python']","['Compliance', 'Market Expansion']",AI Integration,Business,Other/unsure,Human-led with AI Support
+71,1,$50K - $100K,Bank/Financial,['React'],"['User Acquisition', 'Market Expansion']",Web Application,Financial Services,6+ months,Expert Recommendation
+72,4,$250K+,Government,"['TensorFlow', 'Google Cloud']","['Cost Reduction', 'Improve Retention']",E-commerce,Healthcare,1-2 months,AI-first Approach
+73,0,$15K - $30K,Bank/Financial,"['AI/ML', 'Other/unsure']",['Improve Retention'],Other/unsure,Education,Other/unsure,Human-led with AI Support
+74,4,$250K+,Bank/Financial,['React Native'],['Market Expansion'],IoT Solution,Retail,1-2 months,AI-first Approach
+75,0,$100K - $250K,Other/unsure,"['Other/unsure', 'TensorFlow', 'Node.js']","['Other/unsure', 'Security Enhancement', 'Cost Reduction']",SaaS Platform,Financial Services,Other/unsure,Balanced Human + AI
+76,4,$50K - $100K,Startup,"['Google Cloud', 'TensorFlow', 'AWS']",['Increase Revenue'],Mobile App,Retail,1-2 months,Expert Recommendation
+77,4,$15K - $30K,Startup,['Python'],"['Other/unsure', 'Increase Revenue']",Other/unsure,Other/unsure,1-2 months,AI-first Approach
+78,5,$15K - $30K,Government,"['Python', 'React Native']",['Other/unsure'],E-commerce,Healthcare,2-4 weeks,Balanced Human + AI
+79,1,$250K+,Other/unsure,['TensorFlow'],['Compliance'],Mobile App,Financial Services,6+ months,AI-first Approach
+80,1,$30K - $50K,Startup,"['Other/unsure', 'Python']","['Market Expansion', 'Other/unsure']",Other/unsure,Retail,6+ months,Expert Recommendation
+81,1,$5K - $15K,Enterprise,"['Node.js', 'Python']","['Improve Retention', 'Cost Reduction']",Web Application,Enterprise,6+ months,Expert Recommendation
+82,5,$250K+,Government,"['Python', 'AI/ML']","['Security Enhancement', 'Increase Revenue']",Mobile App,Education,2-4 weeks,Other/unsure
+83,3,$5K - $15K,Other/unsure,"['Google Cloud', 'AI/ML']","['Efficiency Gains', 'Other/unsure', 'Improve Retention']",E-commerce,Financial Services,3-4 months,Human-led with AI Support
+84,2,$30K - $50K,Non-profit,"['React', 'Other/unsure', 'TensorFlow']","['Compliance', 'Security Enhancement']",UX/UI Design,Other/unsure,5-6 months,Human-led with AI Support
+85,1,$15K - $30K,Other/unsure,"['React Native', 'Python', 'AI/ML']","['Compliance', 'Cost Reduction']",UX/UI Design,Retail,6+ months,AI-first Approach
+86,1,$100K - $250K,Government,['Other/unsure'],['User Acquisition'],Other/unsure,Other/unsure,6+ months,Human-led with AI Support
+87,3,$5K - $15K,Non-profit,['Python'],"['Other/unsure', 'Increase Revenue', 'Compliance']",UX/UI Design,Healthcare,3-4 months,Balanced Human + AI
+88,2,$5K - $15K,Other/unsure,"['TensorFlow', 'React Native']","['Other/unsure', 'Efficiency Gains']",Other/unsure,Business,5-6 months,Expert Recommendation
+89,5,$250K+,Startup,['AWS'],"['Security Enhancement', 'Market Expansion']",Web Application,Other/unsure,2-4 weeks,AI-first Approach
+90,3,$100K - $250K,Enterprise,"['Python', 'AWS']","['Security Enhancement', 'Increase Revenue']",Web Application,Enterprise,3-4 months,Balanced Human + AI
+91,3,$250K+,Enterprise,"['React', 'Node.js', 'AI/ML']",['Efficiency Gains'],Other/unsure,Financial Services,3-4 months,Human-led with AI Support
+92,0,$5K - $15K,Bank/Financial,"['TensorFlow', 'Other/unsure', 'React']","['Other/unsure', 'User Acquisition']",Other/unsure,Business,Other/unsure,Other/unsure
+93,1,$15K - $30K,Other/unsure,"['Other/unsure', 'React', 'TensorFlow']","['Efficiency Gains', 'Compliance', 'Security Enhancement']",IoT Solution,Customers,6+ months,Balanced Human + AI
+94,1,$5K - $15K,Other/unsure,"['TensorFlow', 'Python']",['Cost Reduction'],Mobile App,Business,6+ months,Other/unsure
+95,5,$50K - $100K,Enterprise,['AWS'],"['Market Expansion', 'Cost Reduction', 'Improve Retention']",UX/UI Design,Business,2-4 weeks,Other/unsure
+96,4,$250K+,Bank/Financial,['TensorFlow'],['User Acquisition'],Other/unsure,Retail,1-2 months,Balanced Human + AI
+97,0,$100K - $250K,Enterprise,"['Google Cloud', 'AWS', 'React Native']","['Other/unsure', 'Increase Revenue']",Other/unsure,Business,Other/unsure,Human-led with AI Support
+98,2,$50K - $100K,Bank/Financial,['React'],['Market Expansion'],Other/unsure,Business,5-6 months,Human-led with AI Support
+99,5,$5K - $15K,Government,['AWS'],['Efficiency Gains'],E-commerce,Retail,2-4 weeks,Human-led with AI Support
+100,0,$100K - $250K,Startup,"['Node.js', 'Python', 'TensorFlow']","['Efficiency Gains', 'User Acquisition']",E-commerce,Other/unsure,Other/unsure,Other/unsure
+101,3,$100K - $250K,Other/unsure,['AWS'],"['User Acquisition', 'Cost Reduction', 'Improve Retention']",UX/UI Design,Business,3-4 months,AI-first Approach
+102,2,$250K+,Government,"['React', 'Node.js']","['Cost Reduction', 'User Acquisition']",Data Analytics,Other/unsure,5-6 months,Expert Recommendation
+103,3,$5K - $15K,Non-profit,"['Node.js', 'React', 'TensorFlow']","['Security Enhancement', 'Market Expansion']",Web Application,Retail,3-4 months,Other/unsure
+104,2,$5K - $15K,Government,"['AWS', 'React', 'React Native']",['Increase Revenue'],SaaS Platform,Financial Services,5-6 months,Expert Recommendation
+105,1,$250K+,Enterprise,"['Google Cloud', 'AWS']","['Market Expansion', 'Improve Retention']",UX/UI Design,Retail,6+ months,Other/unsure
+106,5,$100K - $250K,Non-profit,"['TensorFlow', 'React Native']","['User Acquisition', 'Market Expansion']",Mobile App,Customers,2-4 weeks,Balanced Human + AI
+107,4,$50K - $100K,Other/unsure,['Python'],['Efficiency Gains'],Mobile App,Other/unsure,1-2 months,Balanced Human + AI
+108,4,$15K - $30K,Bank/Financial,['TensorFlow'],"['Efficiency Gains', 'Improve Retention']",SaaS Platform,Customers,1-2 months,AI-first Approach
+109,0,$15K - $30K,Other/unsure,"['Google Cloud', 'Other/unsure']","['Efficiency Gains', 'Compliance', 'Cost Reduction']",IoT Solution,Retail,Other/unsure,Other/unsure
+110,3,$30K - $50K,Government,['Node.js'],"['Cost Reduction', 'Increase Revenue']",IoT Solution,Retail,3-4 months,Balanced Human + AI
+111,2,$30K - $50K,Enterprise,"['Python', 'React Native']",['Efficiency Gains'],UX/UI Design,Customers,5-6 months,Balanced Human + AI
+112,0,$5K - $15K,Enterprise,"['Node.js', 'Google Cloud', 'Other/unsure']","['Other/unsure', 'Increase Revenue', 'Security Enhancement']",E-commerce,Other/unsure,Other/unsure,Expert Recommendation
+113,0,$50K - $100K,Startup,"['Google Cloud', 'TensorFlow']","['User Acquisition', 'Efficiency Gains', 'Security Enhancement']",Mobile App,Customers,Other/unsure,AI-first Approach
+114,0,$250K+,Enterprise,"['React', 'Other/unsure', 'TensorFlow']","['Cost Reduction', 'Security Enhancement']",Other/unsure,Education,Other/unsure,Other/unsure
+115,5,$50K - $100K,Government,"['TensorFlow', 'React', 'Python']","['Other/unsure', 'Compliance', 'Security Enhancement']",Mobile App,Retail,2-4 weeks,Other/unsure
+116,2,$30K - $50K,Enterprise,"['AWS', 'React Native']","['Security Enhancement', 'Other/unsure', 'User Acquisition']",AI Integration,Education,5-6 months,Balanced Human + AI
+117,1,$30K - $50K,Bank/Financial,"['Google Cloud', 'Node.js', 'AWS']",['Compliance'],Other/unsure,Healthcare,6+ months,Human-led with AI Support
+118,5,$250K+,Enterprise,"['AWS', 'Other/unsure']","['Other/unsure', 'User Acquisition', 'Compliance']",AI Integration,Enterprise,2-4 weeks,AI-first Approach
+119,0,$100K - $250K,Non-profit,"['AWS', 'Google Cloud', 'TensorFlow']","['Compliance', 'Market Expansion', 'Cost Reduction']",Other/unsure,Enterprise,Other/unsure,Balanced Human + AI
+120,0,$30K - $50K,Enterprise,['React'],"['Security Enhancement', 'Improve Retention', 'Efficiency Gains']",E-commerce,Healthcare,Other/unsure,Balanced Human + AI
+121,1,$15K - $30K,Bank/Financial,"['Python', 'AWS', 'React Native']","['Efficiency Gains', 'Market Expansion']",E-commerce,Customers,6+ months,Human-led with AI Support
+122,3,$15K - $30K,Enterprise,"['React', 'React Native']","['Security Enhancement', 'Market Expansion', 'Other/unsure']",Web Application,Retail,3-4 months,Balanced Human + AI
+123,4,$30K - $50K,Non-profit,['Google Cloud'],"['Other/unsure', 'Security Enhancement', 'Cost Reduction']",Mobile App,Retail,1-2 months,Human-led with AI Support
+124,1,$100K - $250K,Startup,['React Native'],"['Efficiency Gains', 'User Acquisition']",Other/unsure,Business,6+ months,Expert Recommendation
+125,2,$50K - $100K,Government,['React Native'],"['Efficiency Gains', 'Cost Reduction']",Data Analytics,Enterprise,5-6 months,AI-first Approach
+126,5,$15K - $30K,Startup,['Other/unsure'],"['Increase Revenue', 'Efficiency Gains']",SaaS Platform,Financial Services,2-4 weeks,Balanced Human + AI
+127,5,$100K - $250K,Enterprise,"['Google Cloud', 'TensorFlow', 'React Native']",['Improve Retention'],UX/UI Design,Education,2-4 weeks,Balanced Human + AI
+128,2,$250K+,Enterprise,"['React Native', 'Node.js']",['Cost Reduction'],UX/UI Design,Education,5-6 months,AI-first Approach
+129,4,$15K - $30K,Startup,"['Other/unsure', 'Google Cloud', 'AWS']","['User Acquisition', 'Other/unsure']",Web Application,Healthcare,1-2 months,Expert Recommendation
+130,0,$5K - $15K,Government,"['Other/unsure', 'Node.js', 'AWS']",['Increase Revenue'],Other/unsure,Business,Other/unsure,Expert Recommendation
+131,1,$100K - $250K,Non-profit,['AWS'],['Improve Retention'],Data Analytics,Healthcare,6+ months,Other/unsure
+132,4,$30K - $50K,Bank/Financial,"['React Native', 'React', 'Node.js']","['User Acquisition', 'Improve Retention']",IoT Solution,Enterprise,1-2 months,Other/unsure
+133,5,$5K - $15K,Non-profit,"['React Native', 'Google Cloud', 'Other/unsure']","['Security Enhancement', 'Improve Retention']",Web Application,Retail,2-4 weeks,Expert Recommendation
+134,1,$250K+,Enterprise,['AWS'],"['User Acquisition', 'Compliance', 'Efficiency Gains']",Other/unsure,Other/unsure,6+ months,AI-first Approach
+135,4,$50K - $100K,Government,"['AI/ML', 'Node.js']","['User Acquisition', 'Improve Retention', 'Security Enhancement']",UX/UI Design,Other/unsure,1-2 months,Expert Recommendation
+136,3,$30K - $50K,Startup,"['Google Cloud', 'React', 'AI/ML']","['Security Enhancement', 'Improve Retention']",Data Analytics,Financial Services,3-4 months,AI-first Approach
+137,2,$50K - $100K,Bank/Financial,"['TensorFlow', 'React', 'Python']","['Improve Retention', 'Market Expansion']",UX/UI Design,Business,5-6 months,AI-first Approach
+138,3,$5K - $15K,Other/unsure,"['Other/unsure', 'Node.js']",['Cost Reduction'],Other/unsure,Financial Services,3-4 months,Expert Recommendation
+139,3,$100K - $250K,Startup,['Python'],"['Market Expansion', 'Improve Retention', 'Cost Reduction']",SaaS Platform,Business,3-4 months,Other/unsure
+140,3,$50K - $100K,Other/unsure,"['React', 'AWS']","['Improve Retention', 'User Acquisition', 'Other/unsure']",Web Application,Retail,3-4 months,Expert Recommendation
+141,3,$100K - $250K,Government,['AI/ML'],"['Increase Revenue', 'Compliance', 'Other/unsure']",AI Integration,Healthcare,3-4 months,Other/unsure
+142,1,$50K - $100K,Non-profit,"['TensorFlow', 'Other/unsure']","['Market Expansion', 'Other/unsure']",Web Application,Customers,6+ months,Balanced Human + AI
+143,5,$15K - $30K,Bank/Financial,['React Native'],['Market Expansion'],Data Analytics,Enterprise,2-4 weeks,Balanced Human + AI
+144,2,$100K - $250K,Government,"['React Native', 'Other/unsure', 'Node.js']","['Efficiency Gains', 'Compliance', 'Security Enhancement']",Mobile App,Enterprise,5-6 months,Balanced Human + AI
+145,0,$15K - $30K,Government,"['AI/ML', 'React', 'AWS']","['Security Enhancement', 'User Acquisition', 'Compliance']",UX/UI Design,Other/unsure,Other/unsure,Balanced Human + AI
+146,2,$5K - $15K,Bank/Financial,"['React Native', 'TensorFlow', 'Python']","['Increase Revenue', 'Market Expansion', 'Security Enhancement']",AI Integration,Financial Services,5-6 months,Balanced Human + AI
+147,1,$5K - $15K,Government,"['Node.js', 'TensorFlow', 'AI/ML']","['Increase Revenue', 'Other/unsure', 'Market Expansion']",Mobile App,Education,6+ months,Expert Recommendation
+148,3,$50K - $100K,Bank/Financial,"['AI/ML', 'TensorFlow']","['Security Enhancement', 'User Acquisition', 'Other/unsure']",E-commerce,Customers,3-4 months,Other/unsure
+149,0,$250K+,Other/unsure,"['AWS', 'AI/ML']","['User Acquisition', 'Improve Retention']",SaaS Platform,Business,Other/unsure,Expert Recommendation

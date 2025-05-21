@@ -1,0 +1,2052 @@
+[
+  {
+    "task_id":0,
+    "approach":"hybrid",
+    "assigned_agents":[
+      15,
+      17
+    ],
+    "agent_types":[
+      "AI agent",
+      "human"
+    ],
+    "lead_agent_type":"hybrid",
+    "expected_total_time":89.0,
+    "expected_total_cost":164.37
+  },
+  {
+    "task_id":1,
+    "approach":"hybrid",
+    "assigned_agents":[
+      4,
+      12
+    ],
+    "agent_types":[
+      "AI agent",
+      "human"
+    ],
+    "lead_agent_type":"hybrid",
+    "expected_total_time":55.5,
+    "expected_total_cost":98.46
+  },
+  {
+    "task_id":2,
+    "approach":"human",
+    "assigned_agents":[
+      6
+    ],
+    "agent_types":[
+      "human"
+    ],
+    "lead_agent_type":"human",
+    "expected_total_time":54.0,
+    "expected_total_cost":19.44
+  },
+  {
+    "task_id":3,
+    "approach":"human",
+    "assigned_agents":[
+      1
+    ],
+    "agent_types":[
+      "human"
+    ],
+    "lead_agent_type":"human",
+    "expected_total_time":50.0,
+    "expected_total_cost":17.0
+  },
+  {
+    "task_id":4,
+    "approach":"human",
+    "assigned_agents":[
+      8
+    ],
+    "agent_types":[
+      "human"
+    ],
+    "lead_agent_type":"human",
+    "expected_total_time":66.0,
+    "expected_total_cost":29.7
+  },
+  {
+    "task_id":5,
+    "approach":"AI agent",
+    "assigned_agents":[
+      13
+    ],
+    "agent_types":[
+      "AI agent"
+    ],
+    "lead_agent_type":"AI agent",
+    "expected_total_time":102.0,
+    "expected_total_cost":106.08
+  },
+  {
+    "task_id":6,
+    "approach":"human",
+    "assigned_agents":[
+      9
+    ],
+    "agent_types":[
+      "human"
+    ],
+    "lead_agent_type":"human",
+    "expected_total_time":31.0,
+    "expected_total_cost":11.78
+  },
+  {
+    "task_id":7,
+    "approach":"hybrid",
+    "assigned_agents":[
+      7,
+      18
+    ],
+    "agent_types":[
+      "AI agent",
+      "human"
+    ],
+    "lead_agent_type":"hybrid",
+    "expected_total_time":66.5,
+    "expected_total_cost":122.08
+  },
+  {
+    "task_id":8,
+    "approach":"hybrid",
+    "assigned_agents":[
+      19,
+      5
+    ],
+    "agent_types":[
+      "AI agent",
+      "human"
+    ],
+    "lead_agent_type":"hybrid",
+    "expected_total_time":72.5,
+    "expected_total_cost":82.2
+  },
+  {
+    "task_id":9,
+    "approach":"hybrid",
+    "assigned_agents":[
+      0,
+      3
+    ],
+    "agent_types":[
+      "AI agent",
+      "human"
+    ],
+    "lead_agent_type":"hybrid",
+    "expected_total_time":53.0,
+    "expected_total_cost":130.17
+  },
+  {
+    "task_id":10,
+    "approach":"AI agent",
+    "assigned_agents":[
+      14
+    ],
+    "agent_types":[
+      "AI agent"
+    ],
+    "lead_agent_type":"AI agent",
+    "expected_total_time":65.0,
+    "expected_total_cost":116.35
+  },
+  {
+    "task_id":11,
+    "approach":"hybrid",
+    "assigned_agents":[
+      15,
+      10
+    ],
+    "agent_types":[
+      "AI agent",
+      "human"
+    ],
+    "lead_agent_type":"hybrid",
+    "expected_total_time":83.0,
+    "expected_total_cost":159.38
+  },
+  {
+    "task_id":12,
+    "approach":"AI agent",
+    "assigned_agents":[
+      4
+    ],
+    "agent_types":[
+      "AI agent"
+    ],
+    "lead_agent_type":"AI agent",
+    "expected_total_time":79.0,
+    "expected_total_cost":83.74
+  },
+  {
+    "task_id":13,
+    "approach":"hybrid",
+    "assigned_agents":[
+      13,
+      16
+    ],
+    "agent_types":[
+      "AI agent",
+      "human"
+    ],
+    "lead_agent_type":"hybrid",
+    "expected_total_time":69.5,
+    "expected_total_cost":113.85
+  },
+  {
+    "task_id":14,
+    "approach":"AI agent",
+    "assigned_agents":[
+      7
+    ],
+    "agent_types":[
+      "AI agent"
+    ],
+    "lead_agent_type":"AI agent",
+    "expected_total_time":102.0,
+    "expected_total_cost":115.26
+  },
+  {
+    "task_id":15,
+    "approach":"human",
+    "assigned_agents":[
+      11
+    ],
+    "agent_types":[
+      "human"
+    ],
+    "lead_agent_type":"human",
+    "expected_total_time":64.0,
+    "expected_total_cost":23.04
+  },
+  {
+    "task_id":16,
+    "approach":"human",
+    "assigned_agents":[
+      2
+    ],
+    "agent_types":[
+      "human"
+    ],
+    "lead_agent_type":"human",
+    "expected_total_time":44.0,
+    "expected_total_cost":8.36
+  },
+  {
+    "task_id":17,
+    "approach":"hybrid",
+    "assigned_agents":[
+      19,
+      17
+    ],
+    "agent_types":[
+      "AI agent",
+      "human"
+    ],
+    "lead_agent_type":"hybrid",
+    "expected_total_time":70.0,
+    "expected_total_cost":86.9
+  },
+  {
+    "task_id":18,
+    "approach":"human",
+    "assigned_agents":[
+      12
+    ],
+    "agent_types":[
+      "human"
+    ],
+    "lead_agent_type":"human",
+    "expected_total_time":32.0,
+    "expected_total_cost":14.72
+  },
+  {
+    "task_id":19,
+    "approach":"hybrid",
+    "assigned_agents":[
+      0,
+      6
+    ],
+    "agent_types":[
+      "AI agent",
+      "human"
+    ],
+    "lead_agent_type":"hybrid",
+    "expected_total_time":61.5,
+    "expected_total_cost":142.95
+  },
+  {
+    "task_id":20,
+    "approach":"AI agent",
+    "assigned_agents":[
+      14
+    ],
+    "agent_types":[
+      "AI agent"
+    ],
+    "lead_agent_type":"AI agent",
+    "expected_total_time":65.0,
+    "expected_total_cost":116.35
+  },
+  {
+    "task_id":21,
+    "approach":"AI agent",
+    "assigned_agents":[
+      15
+    ],
+    "agent_types":[
+      "AI agent"
+    ],
+    "lead_agent_type":"AI agent",
+    "expected_total_time":113.0,
+    "expected_total_cost":134.47
+  },
+  {
+    "task_id":22,
+    "approach":"human",
+    "assigned_agents":[
+      1
+    ],
+    "agent_types":[
+      "human"
+    ],
+    "lead_agent_type":"human",
+    "expected_total_time":50.0,
+    "expected_total_cost":17.0
+  },
+  {
+    "task_id":23,
+    "approach":"human",
+    "assigned_agents":[
+      8
+    ],
+    "agent_types":[
+      "human"
+    ],
+    "lead_agent_type":"human",
+    "expected_total_time":66.0,
+    "expected_total_cost":29.7
+  },
+  {
+    "task_id":24,
+    "approach":"AI agent",
+    "assigned_agents":[
+      4
+    ],
+    "agent_types":[
+      "AI agent"
+    ],
+    "lead_agent_type":"AI agent",
+    "expected_total_time":79.0,
+    "expected_total_cost":83.74
+  },
+  {
+    "task_id":25,
+    "approach":"human",
+    "assigned_agents":[
+      9
+    ],
+    "agent_types":[
+      "human"
+    ],
+    "lead_agent_type":"human",
+    "expected_total_time":31.0,
+    "expected_total_cost":11.78
+  },
+  {
+    "task_id":26,
+    "approach":"human",
+    "assigned_agents":[
+      18
+    ],
+    "agent_types":[
+      "human"
+    ],
+    "lead_agent_type":"human",
+    "expected_total_time":31.0,
+    "expected_total_cost":6.82
+  },
+  {
+    "task_id":27,
+    "approach":"hybrid",
+    "assigned_agents":[
+      13,
+      5
+    ],
+    "agent_types":[
+      "AI agent",
+      "human"
+    ],
+    "lead_agent_type":"hybrid",
+    "expected_total_time":86.0,
+    "expected_total_cost":131.28
+  },
+  {
+    "task_id":28,
+    "approach":"human",
+    "assigned_agents":[
+      3
+    ],
+    "agent_types":[
+      "human"
+    ],
+    "lead_agent_type":"human",
+    "expected_total_time":37.0,
+    "expected_total_cost":6.66
+  },
+  {
+    "task_id":29,
+    "approach":"human",
+    "assigned_agents":[
+      10
+    ],
+    "agent_types":[
+      "human"
+    ],
+    "lead_agent_type":"human",
+    "expected_total_time":53.0,
+    "expected_total_cost":24.91
+  },
+  {
+    "task_id":30,
+    "approach":"hybrid",
+    "assigned_agents":[
+      7,
+      16
+    ],
+    "agent_types":[
+      "AI agent",
+      "human"
+    ],
+    "lead_agent_type":"hybrid",
+    "expected_total_time":69.5,
+    "expected_total_cost":123.03
+  },
+  {
+    "task_id":31,
+    "approach":"human",
+    "assigned_agents":[
+      11
+    ],
+    "agent_types":[
+      "human"
+    ],
+    "lead_agent_type":"human",
+    "expected_total_time":64.0,
+    "expected_total_cost":23.04
+  },
+  {
+    "task_id":32,
+    "approach":"human",
+    "assigned_agents":[
+      2
+    ],
+    "agent_types":[
+      "human"
+    ],
+    "lead_agent_type":"human",
+    "expected_total_time":44.0,
+    "expected_total_cost":8.36
+  },
+  {
+    "task_id":33,
+    "approach":"AI agent",
+    "assigned_agents":[
+      19
+    ],
+    "agent_types":[
+      "AI agent"
+    ],
+    "lead_agent_type":"AI agent",
+    "expected_total_time":75.0,
+    "expected_total_cost":57.0
+  },
+  {
+    "task_id":34,
+    "approach":"hybrid",
+    "assigned_agents":[
+      0,
+      17
+    ],
+    "agent_types":[
+      "AI agent",
+      "human"
+    ],
+    "lead_agent_type":"hybrid",
+    "expected_total_time":67.0,
+    "expected_total_cost":153.41
+  },
+  {
+    "task_id":35,
+    "approach":"human",
+    "assigned_agents":[
+      12
+    ],
+    "agent_types":[
+      "human"
+    ],
+    "lead_agent_type":"human",
+    "expected_total_time":32.0,
+    "expected_total_cost":14.72
+  },
+  {
+    "task_id":36,
+    "approach":"human",
+    "assigned_agents":[
+      6
+    ],
+    "agent_types":[
+      "human"
+    ],
+    "lead_agent_type":"human",
+    "expected_total_time":54.0,
+    "expected_total_cost":19.44
+  },
+  {
+    "task_id":37,
+    "approach":"hybrid",
+    "assigned_agents":[
+      14,
+      1
+    ],
+    "agent_types":[
+      "AI agent",
+      "human"
+    ],
+    "lead_agent_type":"hybrid",
+    "expected_total_time":57.5,
+    "expected_total_cost":133.35
+  },
+  {
+    "task_id":38,
+    "approach":"human",
+    "assigned_agents":[
+      8
+    ],
+    "agent_types":[
+      "human"
+    ],
+    "lead_agent_type":"human",
+    "expected_total_time":66.0,
+    "expected_total_cost":29.7
+  },
+  {
+    "task_id":39,
+    "approach":"hybrid",
+    "assigned_agents":[
+      15,
+      9
+    ],
+    "agent_types":[
+      "AI agent",
+      "human"
+    ],
+    "lead_agent_type":"hybrid",
+    "expected_total_time":72.0,
+    "expected_total_cost":146.25
+  },
+  {
+    "task_id":40,
+    "approach":"AI agent",
+    "assigned_agents":[
+      4
+    ],
+    "agent_types":[
+      "AI agent"
+    ],
+    "lead_agent_type":"AI agent",
+    "expected_total_time":79.0,
+    "expected_total_cost":83.74
+  },
+  {
+    "task_id":41,
+    "approach":"AI agent",
+    "assigned_agents":[
+      13
+    ],
+    "agent_types":[
+      "AI agent"
+    ],
+    "lead_agent_type":"AI agent",
+    "expected_total_time":102.0,
+    "expected_total_cost":106.08
+  },
+  {
+    "task_id":42,
+    "approach":"human",
+    "assigned_agents":[
+      18
+    ],
+    "agent_types":[
+      "human"
+    ],
+    "lead_agent_type":"human",
+    "expected_total_time":31.0,
+    "expected_total_cost":6.82
+  },
+  {
+    "task_id":43,
+    "approach":"hybrid",
+    "assigned_agents":[
+      7,
+      5
+    ],
+    "agent_types":[
+      "AI agent",
+      "human"
+    ],
+    "lead_agent_type":"hybrid",
+    "expected_total_time":86.0,
+    "expected_total_cost":140.46
+  },
+  {
+    "task_id":44,
+    "approach":"human",
+    "assigned_agents":[
+      3
+    ],
+    "agent_types":[
+      "human"
+    ],
+    "lead_agent_type":"human",
+    "expected_total_time":37.0,
+    "expected_total_cost":6.66
+  },
+  {
+    "task_id":45,
+    "approach":"AI agent",
+    "assigned_agents":[
+      19
+    ],
+    "agent_types":[
+      "AI agent"
+    ],
+    "lead_agent_type":"AI agent",
+    "expected_total_time":75.0,
+    "expected_total_cost":57.0
+  },
+  {
+    "task_id":46,
+    "approach":"hybrid",
+    "assigned_agents":[
+      0,
+      10
+    ],
+    "agent_types":[
+      "AI agent",
+      "human"
+    ],
+    "lead_agent_type":"hybrid",
+    "expected_total_time":61.0,
+    "expected_total_cost":148.42
+  },
+  {
+    "task_id":47,
+    "approach":"human",
+    "assigned_agents":[
+      16
+    ],
+    "agent_types":[
+      "human"
+    ],
+    "lead_agent_type":"human",
+    "expected_total_time":37.0,
+    "expected_total_cost":7.77
+  },
+  {
+    "task_id":48,
+    "approach":"AI agent",
+    "assigned_agents":[
+      14
+    ],
+    "agent_types":[
+      "AI agent"
+    ],
+    "lead_agent_type":"AI agent",
+    "expected_total_time":65.0,
+    "expected_total_cost":116.35
+  },
+  {
+    "task_id":49,
+    "approach":"AI agent",
+    "assigned_agents":[
+      15
+    ],
+    "agent_types":[
+      "AI agent"
+    ],
+    "lead_agent_type":"AI agent",
+    "expected_total_time":113.0,
+    "expected_total_cost":134.47
+  },
+  {
+    "task_id":50,
+    "approach":"hybrid",
+    "assigned_agents":[
+      4,
+      11
+    ],
+    "agent_types":[
+      "AI agent",
+      "human"
+    ],
+    "lead_agent_type":"hybrid",
+    "expected_total_time":71.5,
+    "expected_total_cost":106.78
+  },
+  {
+    "task_id":51,
+    "approach":"hybrid",
+    "assigned_agents":[
+      13,
+      2
+    ],
+    "agent_types":[
+      "AI agent",
+      "human"
+    ],
+    "lead_agent_type":"hybrid",
+    "expected_total_time":73.0,
+    "expected_total_cost":114.44
+  },
+  {
+    "task_id":52,
+    "approach":"AI agent",
+    "assigned_agents":[
+      7
+    ],
+    "agent_types":[
+      "AI agent"
+    ],
+    "lead_agent_type":"AI agent",
+    "expected_total_time":102.0,
+    "expected_total_cost":115.26
+  },
+  {
+    "task_id":53,
+    "approach":"AI agent",
+    "assigned_agents":[
+      19
+    ],
+    "agent_types":[
+      "AI agent"
+    ],
+    "lead_agent_type":"AI agent",
+    "expected_total_time":75.0,
+    "expected_total_cost":57.0
+  },
+  {
+    "task_id":54,
+    "approach":"hybrid",
+    "assigned_agents":[
+      0,
+      17
+    ],
+    "agent_types":[
+      "AI agent",
+      "human"
+    ],
+    "lead_agent_type":"hybrid",
+    "expected_total_time":67.0,
+    "expected_total_cost":153.41
+  },
+  {
+    "task_id":55,
+    "approach":"human",
+    "assigned_agents":[
+      12
+    ],
+    "agent_types":[
+      "human"
+    ],
+    "lead_agent_type":"human",
+    "expected_total_time":32.0,
+    "expected_total_cost":14.72
+  },
+  {
+    "task_id":56,
+    "approach":"human",
+    "assigned_agents":[
+      6
+    ],
+    "agent_types":[
+      "human"
+    ],
+    "lead_agent_type":"human",
+    "expected_total_time":54.0,
+    "expected_total_cost":19.44
+  },
+  {
+    "task_id":57,
+    "approach":"AI agent",
+    "assigned_agents":[
+      14
+    ],
+    "agent_types":[
+      "AI agent"
+    ],
+    "lead_agent_type":"AI agent",
+    "expected_total_time":65.0,
+    "expected_total_cost":116.35
+  },
+  {
+    "task_id":58,
+    "approach":"AI agent",
+    "assigned_agents":[
+      15
+    ],
+    "agent_types":[
+      "AI agent"
+    ],
+    "lead_agent_type":"AI agent",
+    "expected_total_time":113.0,
+    "expected_total_cost":134.47
+  },
+  {
+    "task_id":59,
+    "approach":"hybrid",
+    "assigned_agents":[
+      4,
+      1
+    ],
+    "agent_types":[
+      "AI agent",
+      "human"
+    ],
+    "lead_agent_type":"hybrid",
+    "expected_total_time":64.5,
+    "expected_total_cost":100.74
+  },
+  {
+    "task_id":60,
+    "approach":"human",
+    "assigned_agents":[
+      8
+    ],
+    "agent_types":[
+      "human"
+    ],
+    "lead_agent_type":"human",
+    "expected_total_time":66.0,
+    "expected_total_cost":29.7
+  },
+  {
+    "task_id":61,
+    "approach":"hybrid",
+    "assigned_agents":[
+      13,
+      9
+    ],
+    "agent_types":[
+      "AI agent",
+      "human"
+    ],
+    "lead_agent_type":"hybrid",
+    "expected_total_time":66.5,
+    "expected_total_cost":117.86
+  },
+  {
+    "task_id":62,
+    "approach":"AI agent",
+    "assigned_agents":[
+      7
+    ],
+    "agent_types":[
+      "AI agent"
+    ],
+    "lead_agent_type":"AI agent",
+    "expected_total_time":102.0,
+    "expected_total_cost":115.26
+  },
+  {
+    "task_id":63,
+    "approach":"human",
+    "assigned_agents":[
+      18
+    ],
+    "agent_types":[
+      "human"
+    ],
+    "lead_agent_type":"human",
+    "expected_total_time":31.0,
+    "expected_total_cost":6.82
+  },
+  {
+    "task_id":64,
+    "approach":"AI agent",
+    "assigned_agents":[
+      19
+    ],
+    "agent_types":[
+      "AI agent"
+    ],
+    "lead_agent_type":"AI agent",
+    "expected_total_time":75.0,
+    "expected_total_cost":57.0
+  },
+  {
+    "task_id":65,
+    "approach":"AI agent",
+    "assigned_agents":[
+      0
+    ],
+    "agent_types":[
+      "AI agent"
+    ],
+    "lead_agent_type":"AI agent",
+    "expected_total_time":69.0,
+    "expected_total_cost":123.51
+  },
+  {
+    "task_id":66,
+    "approach":"AI agent",
+    "assigned_agents":[
+      14
+    ],
+    "agent_types":[
+      "AI agent"
+    ],
+    "lead_agent_type":"AI agent",
+    "expected_total_time":65.0,
+    "expected_total_cost":116.35
+  },
+  {
+    "task_id":67,
+    "approach":"AI agent",
+    "assigned_agents":[
+      15
+    ],
+    "agent_types":[
+      "AI agent"
+    ],
+    "lead_agent_type":"AI agent",
+    "expected_total_time":113.0,
+    "expected_total_cost":134.47
+  },
+  {
+    "task_id":68,
+    "approach":"hybrid",
+    "assigned_agents":[
+      4,
+      5
+    ],
+    "agent_types":[
+      "AI agent",
+      "human"
+    ],
+    "lead_agent_type":"hybrid",
+    "expected_total_time":74.5,
+    "expected_total_cost":108.94
+  },
+  {
+    "task_id":69,
+    "approach":"hybrid",
+    "assigned_agents":[
+      13,
+      3
+    ],
+    "agent_types":[
+      "AI agent",
+      "human"
+    ],
+    "lead_agent_type":"hybrid",
+    "expected_total_time":69.5,
+    "expected_total_cost":112.74
+  },
+  {
+    "task_id":70,
+    "approach":"human",
+    "assigned_agents":[
+      10
+    ],
+    "agent_types":[
+      "human"
+    ],
+    "lead_agent_type":"human",
+    "expected_total_time":53.0,
+    "expected_total_cost":24.91
+  },
+  {
+    "task_id":71,
+    "approach":"human",
+    "assigned_agents":[
+      16
+    ],
+    "agent_types":[
+      "human"
+    ],
+    "lead_agent_type":"human",
+    "expected_total_time":37.0,
+    "expected_total_cost":7.77
+  },
+  {
+    "task_id":72,
+    "approach":"AI agent",
+    "assigned_agents":[
+      7
+    ],
+    "agent_types":[
+      "AI agent"
+    ],
+    "lead_agent_type":"AI agent",
+    "expected_total_time":102.0,
+    "expected_total_cost":115.26
+  },
+  {
+    "task_id":73,
+    "approach":"human",
+    "assigned_agents":[
+      11
+    ],
+    "agent_types":[
+      "human"
+    ],
+    "lead_agent_type":"human",
+    "expected_total_time":64.0,
+    "expected_total_cost":23.04
+  },
+  {
+    "task_id":74,
+    "approach":"AI agent",
+    "assigned_agents":[
+      19
+    ],
+    "agent_types":[
+      "AI agent"
+    ],
+    "lead_agent_type":"AI agent",
+    "expected_total_time":75.0,
+    "expected_total_cost":57.0
+  },
+  {
+    "task_id":75,
+    "approach":"hybrid",
+    "assigned_agents":[
+      0,
+      2
+    ],
+    "agent_types":[
+      "AI agent",
+      "human"
+    ],
+    "lead_agent_type":"hybrid",
+    "expected_total_time":56.5,
+    "expected_total_cost":131.87
+  },
+  {
+    "task_id":76,
+    "approach":"AI agent",
+    "assigned_agents":[
+      14
+    ],
+    "agent_types":[
+      "AI agent"
+    ],
+    "lead_agent_type":"AI agent",
+    "expected_total_time":65.0,
+    "expected_total_cost":116.35
+  },
+  {
+    "task_id":77,
+    "approach":"AI agent",
+    "assigned_agents":[
+      15
+    ],
+    "agent_types":[
+      "AI agent"
+    ],
+    "lead_agent_type":"AI agent",
+    "expected_total_time":113.0,
+    "expected_total_cost":134.47
+  },
+  {
+    "task_id":78,
+    "approach":"AI agent",
+    "assigned_agents":[
+      4
+    ],
+    "agent_types":[
+      "AI agent"
+    ],
+    "lead_agent_type":"AI agent",
+    "expected_total_time":79.0,
+    "expected_total_cost":83.74
+  },
+  {
+    "task_id":79,
+    "approach":"AI agent",
+    "assigned_agents":[
+      13
+    ],
+    "agent_types":[
+      "AI agent"
+    ],
+    "lead_agent_type":"AI agent",
+    "expected_total_time":102.0,
+    "expected_total_cost":106.08
+  },
+  {
+    "task_id":80,
+    "approach":"hybrid",
+    "assigned_agents":[
+      7,
+      17
+    ],
+    "agent_types":[
+      "AI agent",
+      "human"
+    ],
+    "lead_agent_type":"hybrid",
+    "expected_total_time":83.5,
+    "expected_total_cost":145.16
+  },
+  {
+    "task_id":81,
+    "approach":"hybrid",
+    "assigned_agents":[
+      19,
+      12
+    ],
+    "agent_types":[
+      "AI agent",
+      "human"
+    ],
+    "lead_agent_type":"hybrid",
+    "expected_total_time":53.5,
+    "expected_total_cost":71.72
+  },
+  {
+    "task_id":82,
+    "approach":"AI agent",
+    "assigned_agents":[
+      0
+    ],
+    "agent_types":[
+      "AI agent"
+    ],
+    "lead_agent_type":"AI agent",
+    "expected_total_time":69.0,
+    "expected_total_cost":123.51
+  },
+  {
+    "task_id":83,
+    "approach":"human",
+    "assigned_agents":[
+      6
+    ],
+    "agent_types":[
+      "human"
+    ],
+    "lead_agent_type":"human",
+    "expected_total_time":54.0,
+    "expected_total_cost":19.44
+  },
+  {
+    "task_id":84,
+    "approach":"human",
+    "assigned_agents":[
+      1
+    ],
+    "agent_types":[
+      "human"
+    ],
+    "lead_agent_type":"human",
+    "expected_total_time":50.0,
+    "expected_total_cost":17.0
+  },
+  {
+    "task_id":85,
+    "approach":"AI agent",
+    "assigned_agents":[
+      14
+    ],
+    "agent_types":[
+      "AI agent"
+    ],
+    "lead_agent_type":"AI agent",
+    "expected_total_time":65.0,
+    "expected_total_cost":116.35
+  },
+  {
+    "task_id":86,
+    "approach":"human",
+    "assigned_agents":[
+      8
+    ],
+    "agent_types":[
+      "human"
+    ],
+    "lead_agent_type":"human",
+    "expected_total_time":66.0,
+    "expected_total_cost":29.7
+  },
+  {
+    "task_id":87,
+    "approach":"hybrid",
+    "assigned_agents":[
+      15,
+      9
+    ],
+    "agent_types":[
+      "AI agent",
+      "human"
+    ],
+    "lead_agent_type":"hybrid",
+    "expected_total_time":72.0,
+    "expected_total_cost":146.25
+  },
+  {
+    "task_id":88,
+    "approach":"hybrid",
+    "assigned_agents":[
+      4,
+      18
+    ],
+    "agent_types":[
+      "AI agent",
+      "human"
+    ],
+    "lead_agent_type":"hybrid",
+    "expected_total_time":55.0,
+    "expected_total_cost":90.56
+  },
+  {
+    "task_id":89,
+    "approach":"AI agent",
+    "assigned_agents":[
+      13
+    ],
+    "agent_types":[
+      "AI agent"
+    ],
+    "lead_agent_type":"AI agent",
+    "expected_total_time":102.0,
+    "expected_total_cost":106.08
+  },
+  {
+    "task_id":90,
+    "approach":"hybrid",
+    "assigned_agents":[
+      7,
+      5
+    ],
+    "agent_types":[
+      "AI agent",
+      "human"
+    ],
+    "lead_agent_type":"hybrid",
+    "expected_total_time":86.0,
+    "expected_total_cost":140.46
+  },
+  {
+    "task_id":91,
+    "approach":"human",
+    "assigned_agents":[
+      3
+    ],
+    "agent_types":[
+      "human"
+    ],
+    "lead_agent_type":"human",
+    "expected_total_time":37.0,
+    "expected_total_cost":6.66
+  },
+  {
+    "task_id":92,
+    "approach":"human",
+    "assigned_agents":[
+      10
+    ],
+    "agent_types":[
+      "human"
+    ],
+    "lead_agent_type":"human",
+    "expected_total_time":53.0,
+    "expected_total_cost":24.91
+  },
+  {
+    "task_id":93,
+    "approach":"hybrid",
+    "assigned_agents":[
+      19,
+      16
+    ],
+    "agent_types":[
+      "AI agent",
+      "human"
+    ],
+    "lead_agent_type":"hybrid",
+    "expected_total_time":56.0,
+    "expected_total_cost":64.77
+  },
+  {
+    "task_id":94,
+    "approach":"human",
+    "assigned_agents":[
+      11
+    ],
+    "agent_types":[
+      "human"
+    ],
+    "lead_agent_type":"human",
+    "expected_total_time":64.0,
+    "expected_total_cost":23.04
+  },
+  {
+    "task_id":95,
+    "approach":"AI agent",
+    "assigned_agents":[
+      0
+    ],
+    "agent_types":[
+      "AI agent"
+    ],
+    "lead_agent_type":"AI agent",
+    "expected_total_time":69.0,
+    "expected_total_cost":123.51
+  },
+  {
+    "task_id":96,
+    "approach":"hybrid",
+    "assigned_agents":[
+      14,
+      2
+    ],
+    "agent_types":[
+      "AI agent",
+      "human"
+    ],
+    "lead_agent_type":"hybrid",
+    "expected_total_time":54.5,
+    "expected_total_cost":124.71
+  },
+  {
+    "task_id":97,
+    "approach":"human",
+    "assigned_agents":[
+      17
+    ],
+    "agent_types":[
+      "human"
+    ],
+    "lead_agent_type":"human",
+    "expected_total_time":65.0,
+    "expected_total_cost":29.9
+  },
+  {
+    "task_id":98,
+    "approach":"human",
+    "assigned_agents":[
+      12
+    ],
+    "agent_types":[
+      "human"
+    ],
+    "lead_agent_type":"human",
+    "expected_total_time":32.0,
+    "expected_total_cost":14.72
+  },
+  {
+    "task_id":99,
+    "approach":"AI agent",
+    "assigned_agents":[
+      15
+    ],
+    "agent_types":[
+      "AI agent"
+    ],
+    "lead_agent_type":"AI agent",
+    "expected_total_time":113.0,
+    "expected_total_cost":134.47
+  },
+  {
+    "task_id":100,
+    "approach":"human",
+    "assigned_agents":[
+      6
+    ],
+    "agent_types":[
+      "human"
+    ],
+    "lead_agent_type":"human",
+    "expected_total_time":54.0,
+    "expected_total_cost":19.44
+  },
+  {
+    "task_id":101,
+    "approach":"AI agent",
+    "assigned_agents":[
+      4
+    ],
+    "agent_types":[
+      "AI agent"
+    ],
+    "lead_agent_type":"AI agent",
+    "expected_total_time":79.0,
+    "expected_total_cost":83.74
+  },
+  {
+    "task_id":102,
+    "approach":"human",
+    "assigned_agents":[
+      1
+    ],
+    "agent_types":[
+      "human"
+    ],
+    "lead_agent_type":"human",
+    "expected_total_time":50.0,
+    "expected_total_cost":17.0
+  },
+  {
+    "task_id":103,
+    "approach":"AI agent",
+    "assigned_agents":[
+      13
+    ],
+    "agent_types":[
+      "AI agent"
+    ],
+    "lead_agent_type":"AI agent",
+    "expected_total_time":102.0,
+    "expected_total_cost":106.08
+  },
+  {
+    "task_id":104,
+    "approach":"hybrid",
+    "assigned_agents":[
+      7,
+      8
+    ],
+    "agent_types":[
+      "AI agent",
+      "human"
+    ],
+    "lead_agent_type":"hybrid",
+    "expected_total_time":84.0,
+    "expected_total_cost":144.96
+  },
+  {
+    "task_id":105,
+    "approach":"human",
+    "assigned_agents":[
+      9
+    ],
+    "agent_types":[
+      "human"
+    ],
+    "lead_agent_type":"human",
+    "expected_total_time":31.0,
+    "expected_total_cost":11.78
+  },
+  {
+    "task_id":106,
+    "approach":"hybrid",
+    "assigned_agents":[
+      19,
+      18
+    ],
+    "agent_types":[
+      "AI agent",
+      "human"
+    ],
+    "lead_agent_type":"hybrid",
+    "expected_total_time":53.0,
+    "expected_total_cost":63.82
+  },
+  {
+    "task_id":107,
+    "approach":"hybrid",
+    "assigned_agents":[
+      0,
+      5
+    ],
+    "agent_types":[
+      "AI agent",
+      "human"
+    ],
+    "lead_agent_type":"hybrid",
+    "expected_total_time":69.5,
+    "expected_total_cost":148.71
+  },
+  {
+    "task_id":108,
+    "approach":"AI agent",
+    "assigned_agents":[
+      14
+    ],
+    "agent_types":[
+      "AI agent"
+    ],
+    "lead_agent_type":"AI agent",
+    "expected_total_time":65.0,
+    "expected_total_cost":116.35
+  },
+  {
+    "task_id":109,
+    "approach":"human",
+    "assigned_agents":[
+      3
+    ],
+    "agent_types":[
+      "human"
+    ],
+    "lead_agent_type":"human",
+    "expected_total_time":37.0,
+    "expected_total_cost":6.66
+  },
+  {
+    "task_id":110,
+    "approach":"hybrid",
+    "assigned_agents":[
+      15,
+      10
+    ],
+    "agent_types":[
+      "AI agent",
+      "human"
+    ],
+    "lead_agent_type":"hybrid",
+    "expected_total_time":83.0,
+    "expected_total_cost":159.38
+  },
+  {
+    "task_id":111,
+    "approach":"hybrid",
+    "assigned_agents":[
+      4,
+      16
+    ],
+    "agent_types":[
+      "AI agent",
+      "human"
+    ],
+    "lead_agent_type":"hybrid",
+    "expected_total_time":58.0,
+    "expected_total_cost":91.51
+  },
+  {
+    "task_id":112,
+    "approach":"hybrid",
+    "assigned_agents":[
+      13,
+      11
+    ],
+    "agent_types":[
+      "AI agent",
+      "human"
+    ],
+    "lead_agent_type":"hybrid",
+    "expected_total_time":83.0,
+    "expected_total_cost":129.12
+  },
+  {
+    "task_id":113,
+    "approach":"AI agent",
+    "assigned_agents":[
+      7
+    ],
+    "agent_types":[
+      "AI agent"
+    ],
+    "lead_agent_type":"AI agent",
+    "expected_total_time":102.0,
+    "expected_total_cost":115.26
+  },
+  {
+    "task_id":114,
+    "approach":"human",
+    "assigned_agents":[
+      2
+    ],
+    "agent_types":[
+      "human"
+    ],
+    "lead_agent_type":"human",
+    "expected_total_time":44.0,
+    "expected_total_cost":8.36
+  },
+  {
+    "task_id":115,
+    "approach":"AI agent",
+    "assigned_agents":[
+      19
+    ],
+    "agent_types":[
+      "AI agent"
+    ],
+    "lead_agent_type":"AI agent",
+    "expected_total_time":75.0,
+    "expected_total_cost":57.0
+  },
+  {
+    "task_id":116,
+    "approach":"hybrid",
+    "assigned_agents":[
+      0,
+      17
+    ],
+    "agent_types":[
+      "AI agent",
+      "human"
+    ],
+    "lead_agent_type":"hybrid",
+    "expected_total_time":67.0,
+    "expected_total_cost":153.41
+  },
+  {
+    "task_id":117,
+    "approach":"human",
+    "assigned_agents":[
+      12
+    ],
+    "agent_types":[
+      "human"
+    ],
+    "lead_agent_type":"human",
+    "expected_total_time":32.0,
+    "expected_total_cost":14.72
+  },
+  {
+    "task_id":118,
+    "approach":"AI agent",
+    "assigned_agents":[
+      14
+    ],
+    "agent_types":[
+      "AI agent"
+    ],
+    "lead_agent_type":"AI agent",
+    "expected_total_time":65.0,
+    "expected_total_cost":116.35
+  },
+  {
+    "task_id":119,
+    "approach":"hybrid",
+    "assigned_agents":[
+      15,
+      6
+    ],
+    "agent_types":[
+      "AI agent",
+      "human"
+    ],
+    "lead_agent_type":"hybrid",
+    "expected_total_time":83.5,
+    "expected_total_cost":153.91
+  },
+  {
+    "task_id":120,
+    "approach":"hybrid",
+    "assigned_agents":[
+      4,
+      1
+    ],
+    "agent_types":[
+      "AI agent",
+      "human"
+    ],
+    "lead_agent_type":"hybrid",
+    "expected_total_time":64.5,
+    "expected_total_cost":100.74
+  },
+  {
+    "task_id":121,
+    "approach":"human",
+    "assigned_agents":[
+      8
+    ],
+    "agent_types":[
+      "human"
+    ],
+    "lead_agent_type":"human",
+    "expected_total_time":66.0,
+    "expected_total_cost":29.7
+  },
+  {
+    "task_id":122,
+    "approach":"hybrid",
+    "assigned_agents":[
+      13,
+      9
+    ],
+    "agent_types":[
+      "AI agent",
+      "human"
+    ],
+    "lead_agent_type":"hybrid",
+    "expected_total_time":66.5,
+    "expected_total_cost":117.86
+  },
+  {
+    "task_id":123,
+    "approach":"human",
+    "assigned_agents":[
+      18
+    ],
+    "agent_types":[
+      "human"
+    ],
+    "lead_agent_type":"human",
+    "expected_total_time":31.0,
+    "expected_total_cost":6.82
+  },
+  {
+    "task_id":124,
+    "approach":"human",
+    "assigned_agents":[
+      5
+    ],
+    "agent_types":[
+      "human"
+    ],
+    "lead_agent_type":"human",
+    "expected_total_time":70.0,
+    "expected_total_cost":25.2
+  },
+  {
+    "task_id":125,
+    "approach":"AI agent",
+    "assigned_agents":[
+      7
+    ],
+    "agent_types":[
+      "AI agent"
+    ],
+    "lead_agent_type":"AI agent",
+    "expected_total_time":102.0,
+    "expected_total_cost":115.26
+  },
+  {
+    "task_id":126,
+    "approach":"AI agent",
+    "assigned_agents":[
+      19
+    ],
+    "agent_types":[
+      "AI agent"
+    ],
+    "lead_agent_type":"AI agent",
+    "expected_total_time":75.0,
+    "expected_total_cost":57.0
+  },
+  {
+    "task_id":127,
+    "approach":"hybrid",
+    "assigned_agents":[
+      0,
+      3
+    ],
+    "agent_types":[
+      "AI agent",
+      "human"
+    ],
+    "lead_agent_type":"hybrid",
+    "expected_total_time":53.0,
+    "expected_total_cost":130.17
+  },
+  {
+    "task_id":128,
+    "approach":"AI agent",
+    "assigned_agents":[
+      14
+    ],
+    "agent_types":[
+      "AI agent"
+    ],
+    "lead_agent_type":"AI agent",
+    "expected_total_time":65.0,
+    "expected_total_cost":116.35
+  },
+  {
+    "task_id":129,
+    "approach":"AI agent",
+    "assigned_agents":[
+      15
+    ],
+    "agent_types":[
+      "AI agent"
+    ],
+    "lead_agent_type":"AI agent",
+    "expected_total_time":113.0,
+    "expected_total_cost":134.47
+  },
+  {
+    "task_id":130,
+    "approach":"hybrid",
+    "assigned_agents":[
+      4,
+      10
+    ],
+    "agent_types":[
+      "AI agent",
+      "human"
+    ],
+    "lead_agent_type":"hybrid",
+    "expected_total_time":66.0,
+    "expected_total_cost":108.65
+  },
+  {
+    "task_id":131,
+    "approach":"human",
+    "assigned_agents":[
+      16
+    ],
+    "agent_types":[
+      "human"
+    ],
+    "lead_agent_type":"human",
+    "expected_total_time":37.0,
+    "expected_total_cost":7.77
+  },
+  {
+    "task_id":132,
+    "approach":"AI agent",
+    "assigned_agents":[
+      13
+    ],
+    "agent_types":[
+      "AI agent"
+    ],
+    "lead_agent_type":"AI agent",
+    "expected_total_time":102.0,
+    "expected_total_cost":106.08
+  },
+  {
+    "task_id":133,
+    "approach":"AI agent",
+    "assigned_agents":[
+      7
+    ],
+    "agent_types":[
+      "AI agent"
+    ],
+    "lead_agent_type":"AI agent",
+    "expected_total_time":102.0,
+    "expected_total_cost":115.26
+  },
+  {
+    "task_id":134,
+    "approach":"AI agent",
+    "assigned_agents":[
+      19
+    ],
+    "agent_types":[
+      "AI agent"
+    ],
+    "lead_agent_type":"AI agent",
+    "expected_total_time":75.0,
+    "expected_total_cost":57.0
+  },
+  {
+    "task_id":135,
+    "approach":"AI agent",
+    "assigned_agents":[
+      0
+    ],
+    "agent_types":[
+      "AI agent"
+    ],
+    "lead_agent_type":"AI agent",
+    "expected_total_time":69.0,
+    "expected_total_cost":123.51
+  },
+  {
+    "task_id":136,
+    "approach":"AI agent",
+    "assigned_agents":[
+      14
+    ],
+    "agent_types":[
+      "AI agent"
+    ],
+    "lead_agent_type":"AI agent",
+    "expected_total_time":65.0,
+    "expected_total_cost":116.35
+  },
+  {
+    "task_id":137,
+    "approach":"AI agent",
+    "assigned_agents":[
+      15
+    ],
+    "agent_types":[
+      "AI agent"
+    ],
+    "lead_agent_type":"AI agent",
+    "expected_total_time":113.0,
+    "expected_total_cost":134.47
+  },
+  {
+    "task_id":138,
+    "approach":"hybrid",
+    "assigned_agents":[
+      4,
+      11
+    ],
+    "agent_types":[
+      "AI agent",
+      "human"
+    ],
+    "lead_agent_type":"hybrid",
+    "expected_total_time":71.5,
+    "expected_total_cost":106.78
+  },
+  {
+    "task_id":139,
+    "approach":"AI agent",
+    "assigned_agents":[
+      13
+    ],
+    "agent_types":[
+      "AI agent"
+    ],
+    "lead_agent_type":"AI agent",
+    "expected_total_time":102.0,
+    "expected_total_cost":106.08
+  },
+  {
+    "task_id":140,
+    "approach":"hybrid",
+    "assigned_agents":[
+      7,
+      2
+    ],
+    "agent_types":[
+      "AI agent",
+      "human"
+    ],
+    "lead_agent_type":"hybrid",
+    "expected_total_time":73.0,
+    "expected_total_cost":123.62
+  },
+  {
+    "task_id":141,
+    "approach":"AI agent",
+    "assigned_agents":[
+      19
+    ],
+    "agent_types":[
+      "AI agent"
+    ],
+    "lead_agent_type":"AI agent",
+    "expected_total_time":75.0,
+    "expected_total_cost":57.0
+  },
+  {
+    "task_id":142,
+    "approach":"hybrid",
+    "assigned_agents":[
+      0,
+      17
+    ],
+    "agent_types":[
+      "AI agent",
+      "human"
+    ],
+    "lead_agent_type":"hybrid",
+    "expected_total_time":67.0,
+    "expected_total_cost":153.41
+  },
+  {
+    "task_id":143,
+    "approach":"AI agent",
+    "assigned_agents":[
+      14
+    ],
+    "agent_types":[
+      "AI agent"
+    ],
+    "lead_agent_type":"AI agent",
+    "expected_total_time":65.0,
+    "expected_total_cost":116.35
+  },
+  {
+    "task_id":144,
+    "approach":"hybrid",
+    "assigned_agents":[
+      15,
+      12
+    ],
+    "agent_types":[
+      "AI agent",
+      "human"
+    ],
+    "lead_agent_type":"hybrid",
+    "expected_total_time":72.5,
+    "expected_total_cost":149.19
+  },
+  {
+    "task_id":145,
+    "approach":"hybrid",
+    "assigned_agents":[
+      4,
+      6
+    ],
+    "agent_types":[
+      "AI agent",
+      "human"
+    ],
+    "lead_agent_type":"hybrid",
+    "expected_total_time":66.5,
+    "expected_total_cost":103.18
+  },
+  {
+    "task_id":146,
+    "approach":"hybrid",
+    "assigned_agents":[
+      13,
+      1
+    ],
+    "agent_types":[
+      "AI agent",
+      "human"
+    ],
+    "lead_agent_type":"hybrid",
+    "expected_total_time":76.0,
+    "expected_total_cost":123.08
+  },
+  {
+    "task_id":147,
+    "approach":"hybrid",
+    "assigned_agents":[
+      7,
+      8
+    ],
+    "agent_types":[
+      "AI agent",
+      "human"
+    ],
+    "lead_agent_type":"hybrid",
+    "expected_total_time":84.0,
+    "expected_total_cost":144.96
+  },
+  {
+    "task_id":148,
+    "approach":"AI agent",
+    "assigned_agents":[
+      19
+    ],
+    "agent_types":[
+      "AI agent"
+    ],
+    "lead_agent_type":"AI agent",
+    "expected_total_time":75.0,
+    "expected_total_cost":57.0
+  },
+  {
+    "task_id":149,
+    "approach":"human",
+    "assigned_agents":[
+      9
+    ],
+    "agent_types":[
+      "human"
+    ],
+    "lead_agent_type":"human",
+    "expected_total_time":31.0,
+    "expected_total_cost":11.78
+  }
+]

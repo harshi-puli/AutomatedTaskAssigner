@@ -1,0 +1,151 @@
+task_id,approach,assigned_agents,agent_types,lead_agent_type,expected_total_time,expected_total_cost
+0,hybrid,"[15, 17]","['AI agent', 'human']",hybrid,89.0,164.37
+1,hybrid,"[4, 12]","['AI agent', 'human']",hybrid,55.5,98.46
+2,human,[6],['human'],human,54.0,19.44
+3,human,[1],['human'],human,50.0,17.0
+4,human,[8],['human'],human,66.0,29.7
+5,AI agent,[13],['AI agent'],AI agent,102.0,106.08
+6,human,[9],['human'],human,31.0,11.78
+7,hybrid,"[7, 18]","['AI agent', 'human']",hybrid,66.5,122.08
+8,hybrid,"[19, 5]","['AI agent', 'human']",hybrid,72.5,82.2
+9,hybrid,"[0, 3]","['AI agent', 'human']",hybrid,53.0,130.17
+10,AI agent,[14],['AI agent'],AI agent,65.0,116.35
+11,hybrid,"[15, 10]","['AI agent', 'human']",hybrid,83.0,159.38
+12,AI agent,[4],['AI agent'],AI agent,79.0,83.74
+13,hybrid,"[13, 16]","['AI agent', 'human']",hybrid,69.5,113.85
+14,AI agent,[7],['AI agent'],AI agent,102.0,115.26
+15,human,[11],['human'],human,64.0,23.04
+16,human,[2],['human'],human,44.0,8.36
+17,hybrid,"[19, 17]","['AI agent', 'human']",hybrid,70.0,86.9
+18,human,[12],['human'],human,32.0,14.72
+19,hybrid,"[0, 6]","['AI agent', 'human']",hybrid,61.5,142.95
+20,AI agent,[14],['AI agent'],AI agent,65.0,116.35
+21,AI agent,[15],['AI agent'],AI agent,113.0,134.47
+22,human,[1],['human'],human,50.0,17.0
+23,human,[8],['human'],human,66.0,29.7
+24,AI agent,[4],['AI agent'],AI agent,79.0,83.74
+25,human,[9],['human'],human,31.0,11.78
+26,human,[18],['human'],human,31.0,6.82
+27,hybrid,"[13, 5]","['AI agent', 'human']",hybrid,86.0,131.28
+28,human,[3],['human'],human,37.0,6.66
+29,human,[10],['human'],human,53.0,24.91
+30,hybrid,"[7, 16]","['AI agent', 'human']",hybrid,69.5,123.03
+31,human,[11],['human'],human,64.0,23.04
+32,human,[2],['human'],human,44.0,8.36
+33,AI agent,[19],['AI agent'],AI agent,75.0,57.0
+34,hybrid,"[0, 17]","['AI agent', 'human']",hybrid,67.0,153.41
+35,human,[12],['human'],human,32.0,14.72
+36,human,[6],['human'],human,54.0,19.44
+37,hybrid,"[14, 1]","['AI agent', 'human']",hybrid,57.5,133.35
+38,human,[8],['human'],human,66.0,29.7
+39,hybrid,"[15, 9]","['AI agent', 'human']",hybrid,72.0,146.25
+40,AI agent,[4],['AI agent'],AI agent,79.0,83.74
+41,AI agent,[13],['AI agent'],AI agent,102.0,106.08
+42,human,[18],['human'],human,31.0,6.82
+43,hybrid,"[7, 5]","['AI agent', 'human']",hybrid,86.0,140.46
+44,human,[3],['human'],human,37.0,6.66
+45,AI agent,[19],['AI agent'],AI agent,75.0,57.0
+46,hybrid,"[0, 10]","['AI agent', 'human']",hybrid,61.0,148.42
+47,human,[16],['human'],human,37.0,7.77
+48,AI agent,[14],['AI agent'],AI agent,65.0,116.35
+49,AI agent,[15],['AI agent'],AI agent,113.0,134.47
+50,hybrid,"[4, 11]","['AI agent', 'human']",hybrid,71.5,106.78
+51,hybrid,"[13, 2]","['AI agent', 'human']",hybrid,73.0,114.44
+52,AI agent,[7],['AI agent'],AI agent,102.0,115.26
+53,AI agent,[19],['AI agent'],AI agent,75.0,57.0
+54,hybrid,"[0, 17]","['AI agent', 'human']",hybrid,67.0,153.41
+55,human,[12],['human'],human,32.0,14.72
+56,human,[6],['human'],human,54.0,19.44
+57,AI agent,[14],['AI agent'],AI agent,65.0,116.35
+58,AI agent,[15],['AI agent'],AI agent,113.0,134.47
+59,hybrid,"[4, 1]","['AI agent', 'human']",hybrid,64.5,100.74
+60,human,[8],['human'],human,66.0,29.7
+61,hybrid,"[13, 9]","['AI agent', 'human']",hybrid,66.5,117.86
+62,AI agent,[7],['AI agent'],AI agent,102.0,115.26
+63,human,[18],['human'],human,31.0,6.82
+64,AI agent,[19],['AI agent'],AI agent,75.0,57.0
+65,AI agent,[0],['AI agent'],AI agent,69.0,123.51
+66,AI agent,[14],['AI agent'],AI agent,65.0,116.35
+67,AI agent,[15],['AI agent'],AI agent,113.0,134.47
+68,hybrid,"[4, 5]","['AI agent', 'human']",hybrid,74.5,108.94
+69,hybrid,"[13, 3]","['AI agent', 'human']",hybrid,69.5,112.74
+70,human,[10],['human'],human,53.0,24.91
+71,human,[16],['human'],human,37.0,7.77
+72,AI agent,[7],['AI agent'],AI agent,102.0,115.26
+73,human,[11],['human'],human,64.0,23.04
+74,AI agent,[19],['AI agent'],AI agent,75.0,57.0
+75,hybrid,"[0, 2]","['AI agent', 'human']",hybrid,56.5,131.87
+76,AI agent,[14],['AI agent'],AI agent,65.0,116.35
+77,AI agent,[15],['AI agent'],AI agent,113.0,134.47
+78,AI agent,[4],['AI agent'],AI agent,79.0,83.74
+79,AI agent,[13],['AI agent'],AI agent,102.0,106.08
+80,hybrid,"[7, 17]","['AI agent', 'human']",hybrid,83.5,145.16
+81,hybrid,"[19, 12]","['AI agent', 'human']",hybrid,53.5,71.72
+82,AI agent,[0],['AI agent'],AI agent,69.0,123.51
+83,human,[6],['human'],human,54.0,19.44
+84,human,[1],['human'],human,50.0,17.0
+85,AI agent,[14],['AI agent'],AI agent,65.0,116.35
+86,human,[8],['human'],human,66.0,29.7
+87,hybrid,"[15, 9]","['AI agent', 'human']",hybrid,72.0,146.25
+88,hybrid,"[4, 18]","['AI agent', 'human']",hybrid,55.0,90.56
+89,AI agent,[13],['AI agent'],AI agent,102.0,106.08
+90,hybrid,"[7, 5]","['AI agent', 'human']",hybrid,86.0,140.46
+91,human,[3],['human'],human,37.0,6.66
+92,human,[10],['human'],human,53.0,24.91
+93,hybrid,"[19, 16]","['AI agent', 'human']",hybrid,56.0,64.77
+94,human,[11],['human'],human,64.0,23.04
+95,AI agent,[0],['AI agent'],AI agent,69.0,123.51
+96,hybrid,"[14, 2]","['AI agent', 'human']",hybrid,54.5,124.71
+97,human,[17],['human'],human,65.0,29.9
+98,human,[12],['human'],human,32.0,14.72
+99,AI agent,[15],['AI agent'],AI agent,113.0,134.47
+100,human,[6],['human'],human,54.0,19.44
+101,AI agent,[4],['AI agent'],AI agent,79.0,83.74
+102,human,[1],['human'],human,50.0,17.0
+103,AI agent,[13],['AI agent'],AI agent,102.0,106.08
+104,hybrid,"[7, 8]","['AI agent', 'human']",hybrid,84.0,144.96
+105,human,[9],['human'],human,31.0,11.78
+106,hybrid,"[19, 18]","['AI agent', 'human']",hybrid,53.0,63.82
+107,hybrid,"[0, 5]","['AI agent', 'human']",hybrid,69.5,148.71
+108,AI agent,[14],['AI agent'],AI agent,65.0,116.35
+109,human,[3],['human'],human,37.0,6.66
+110,hybrid,"[15, 10]","['AI agent', 'human']",hybrid,83.0,159.38
+111,hybrid,"[4, 16]","['AI agent', 'human']",hybrid,58.0,91.51
+112,hybrid,"[13, 11]","['AI agent', 'human']",hybrid,83.0,129.12
+113,AI agent,[7],['AI agent'],AI agent,102.0,115.26
+114,human,[2],['human'],human,44.0,8.36
+115,AI agent,[19],['AI agent'],AI agent,75.0,57.0
+116,hybrid,"[0, 17]","['AI agent', 'human']",hybrid,67.0,153.41
+117,human,[12],['human'],human,32.0,14.72
+118,AI agent,[14],['AI agent'],AI agent,65.0,116.35
+119,hybrid,"[15, 6]","['AI agent', 'human']",hybrid,83.5,153.91
+120,hybrid,"[4, 1]","['AI agent', 'human']",hybrid,64.5,100.74
+121,human,[8],['human'],human,66.0,29.7
+122,hybrid,"[13, 9]","['AI agent', 'human']",hybrid,66.5,117.86
+123,human,[18],['human'],human,31.0,6.82
+124,human,[5],['human'],human,70.0,25.2
+125,AI agent,[7],['AI agent'],AI agent,102.0,115.26
+126,AI agent,[19],['AI agent'],AI agent,75.0,57.0
+127,hybrid,"[0, 3]","['AI agent', 'human']",hybrid,53.0,130.17
+128,AI agent,[14],['AI agent'],AI agent,65.0,116.35
+129,AI agent,[15],['AI agent'],AI agent,113.0,134.47
+130,hybrid,"[4, 10]","['AI agent', 'human']",hybrid,66.0,108.65
+131,human,[16],['human'],human,37.0,7.77
+132,AI agent,[13],['AI agent'],AI agent,102.0,106.08
+133,AI agent,[7],['AI agent'],AI agent,102.0,115.26
+134,AI agent,[19],['AI agent'],AI agent,75.0,57.0
+135,AI agent,[0],['AI agent'],AI agent,69.0,123.51
+136,AI agent,[14],['AI agent'],AI agent,65.0,116.35
+137,AI agent,[15],['AI agent'],AI agent,113.0,134.47
+138,hybrid,"[4, 11]","['AI agent', 'human']",hybrid,71.5,106.78
+139,AI agent,[13],['AI agent'],AI agent,102.0,106.08
+140,hybrid,"[7, 2]","['AI agent', 'human']",hybrid,73.0,123.62
+141,AI agent,[19],['AI agent'],AI agent,75.0,57.0
+142,hybrid,"[0, 17]","['AI agent', 'human']",hybrid,67.0,153.41
+143,AI agent,[14],['AI agent'],AI agent,65.0,116.35
+144,hybrid,"[15, 12]","['AI agent', 'human']",hybrid,72.5,149.19
+145,hybrid,"[4, 6]","['AI agent', 'human']",hybrid,66.5,103.18
+146,hybrid,"[13, 1]","['AI agent', 'human']",hybrid,76.0,123.08
+147,hybrid,"[7, 8]","['AI agent', 'human']",hybrid,84.0,144.96
+148,AI agent,[19],['AI agent'],AI agent,75.0,57.0
+149,human,[9],['human'],human,31.0,11.78

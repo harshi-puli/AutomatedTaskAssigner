@@ -1,0 +1,21 @@
+agent_id,agent_type,efficiency,cost_per_min,specialities,learning_rate,avg_completion_min,best_techs
+0,AI agent,0.73,1.79,"['customer', 'healthcare']",0.8180625135904144,69,['React']
+1,human,0.74,0.34,"['healthcare', 'learning', 'law', 'security']",0.32136669020122843,50,"['React Native', 'Node.js']"
+2,human,0.75,0.19,"['healthcare', 'data']",0.45541577671950995,44,['TensorFlow']
+3,human,0.8,0.18,"['creative', 'learning']",0.2858024602940715,37,"['TensorFlow', 'React']"
+4,AI agent,0.73,1.06,"['customer', 'learning']",0.7724808029316331,79,"['Node.js', 'AWS']"
+5,human,0.84,0.36,['healthcare'],0.3143362832109949,70,['TensorFlow']
+6,human,0.4,0.36,"['code', 'law', 'creative']",0.4322431845079524,54,"['Other/unsure', 'Node.js']"
+7,AI agent,0.86,1.13,['creative'],0.7019930527851018,102,"['Other/unsure', 'React Native', 'Python']"
+8,human,0.58,0.45,"['customer', 'creative']",0.28083670138500627,66,"['Other/unsure', 'Python', 'Google Cloud']"
+9,human,0.49,0.38,"['healthcare', 'customer']",0.16576649539762045,31,"['AWS', 'Google Cloud']"
+10,human,0.6,0.47,"['customer', 'code', 'healthcare']",0.20281235058716549,53,"['Python', 'React']"
+11,human,0.73,0.36,"['law', 'code', 'healthcare', 'business']",0.3291247136023555,64,['AI/ML']
+12,human,0.45,0.46,"['customer', 'business', 'data', 'law', 'security']",0.36193979795216535,32,"['Google Cloud', 'React Native']"
+13,AI agent,0.91,1.04,['business'],0.6564923960525583,102,['AI/ML']
+14,AI agent,0.82,1.79,['learning'],0.8720432944944567,65,"['AI/ML', 'Node.js', 'Python']"
+15,AI agent,0.65,1.19,['healthcare'],0.8556095552674186,113,"['AI/ML', 'Python', 'React Native']"
+16,human,0.49,0.21,"['code', 'healthcare']",0.42570500956600055,37,['AI/ML']
+17,human,0.43,0.46,"['code', 'healthcare', 'security']",0.13028949028221223,65,"['Node.js', 'AWS', 'TensorFlow']"
+18,human,0.7,0.22,"['code', 'law', 'healthcare']",0.1870329523384469,31,"['React Native', 'Other/unsure', 'Node.js']"
+19,AI agent,0.85,0.76,['security'],0.7697077257332107,75,"['Python', 'Node.js']"
